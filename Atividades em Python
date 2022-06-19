@@ -1,0 +1,7 @@
+print('Olá Sejam bem vindo! ')
+peso = float(input('Digite o peso de entrada! '))#peso de peixes
+ex = peso - 50 #pesos excedentes
+res1 = ex * 4 #valor a pagar de multa
+print('Quantidade total de entrada! {} Kg'.format(peso))
+print('Peso excedente foi {} Kg '.format(ex))
+print('O valor total a pagar de multa é de R${} '.format(res1))
