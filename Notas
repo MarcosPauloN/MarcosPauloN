@@ -1,0 +1,12 @@
+while True:
+  print('Olá seja bem vindo! para começar digite os dados abaixo! ')
+  nome = input('DIGITE O NOME DO ALUNO!')
+  nota1 = float(input('DIGITE A PRIMEIRA NOTA DO ALUNO! '))
+  nota2 = float(input('DIGITE A SEGUNDA NOTA DO ALUNO! '))
+  media = (nota1 + nota2) / 2
+  if media >= 7 and media < 10 :
+    print('O aluno {}, foi aprovado! '.format(nome))
+  elif media <= 6:
+    print('O aluno {}, foi reprovado! '.format(nome))
+  elif media == 10:
+    print('O aluno{} foi Aprovado com distinção'.format(nome))
