@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MarcosPauloN
-- 👀 I’m interested in  atuar como front-end
-- 🌱 I’m currently learning  HTML e CSS  JS My SQL 
- 💞️ I’m looking to collaborate on ...Desenvolvimento web
+- 👀 I’m interested in  atuar como back-and
 - 📫 How to reach me  email paulostillo@hotmail.com tel +55 087988351035
 
 <!---
