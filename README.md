@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosPauloN
-- 👀 I’m interested in  atuar como back-and
+- 👀 I’m interested in  atuar como back-end
 - 📫 How to reach me  email paulostillo@hotmail.com tel +55 087988351035
 
 <!---
